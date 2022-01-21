@@ -1,0 +1,25 @@
+table{
+    background-color:rgb(160, 250, 250);
+    border-left: aqua;
+    border-left: aqua;
+    border-left-color: aqua;
+    border-right-color:aqua;
+    border-right-width: 20px;
+    border-left-width: 30px;
+
+}
+#heading{
+    background-color: white;
+    
+}
+span{
+    color: turquoise;
+}
+.solo{
+    border-radius: 200% 200%/ 200% 200% ;
+    color: white;
+    background-color: white;
+}
+.discription{
+    background-color: white;
+}
